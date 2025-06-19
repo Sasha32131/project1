@@ -1,0 +1,111 @@
+table{
+    margin-left: 43%;
+    margin-top: 120px;
+ 
+}
+.td1{
+     border: 1px solid gray ;
+     text-align: center;
+     border-top-left-radius: 5% ;
+      border-top-right-radius:  5% ;
+ background-color: rgb(188, 186, 186);
+
+}
+td{
+    width: 250px;
+}
+.td2{
+ border: 1px solid gray ;
+
+}
+.img1{
+    height: 30px;
+    width: 50px;
+    border: 1px solid rgb(236, 231, 231) ;
+    border-radius: 20%;
+    margin-left: 70px;
+}
+.img2{
+        height: 30px;
+    width: 50px;
+    border: 1px solid rgb(236, 231, 231) ;
+    border-radius: 20%;
+    margin-left: 20px;
+}
+.div1{
+    margin-top: 15px;
+}
+.inp-1{
+    background-color: rgb(237, 233, 233);
+    border: 1px solid gray ;
+    border-radius: 20% ;
+    display: inline;
+     margin-left: 125px;
+}
+
+.inp-1:active{
+    background-color: rgb(113, 109, 109);
+}
+
+.p2{
+      margin-left: 15px;
+}
+.p3{
+    display: inline;
+    margin-left: 15px;
+}
+.p4{
+    margin-bottom: 2px ;
+        margin-left: 15px;
+}
+.inp-2{
+        margin-left: 15px;
+         width: 210px;
+}
+.p5{
+    margin-left: 15px;
+       margin-bottom: 2px ;
+}
+.inp-3{
+        margin-left: 15px;
+         width: 210px;
+}
+
+.div3{
+margin-left: 10px;
+}
+.div4{
+ display: flex;
+ margin-left: 15px;
+}
+.inp-4{
+   width: 77%; 
+}
+.inp-5{
+    width: 77%;
+}
+.p6{
+      margin-bottom: 2px ;
+  
+}
+.p7{
+      margin-bottom: 2px ;
+  margin-bottom: 2px;
+  
+}
+
+.inp-6{
+    margin-left: 15px;
+    width: 210px;
+}
+.p8{
+      margin-bottom: 2px ;
+    margin-left: 15px;
+}
+.inp-7{
+    margin-left: 15px;
+    width: 218px;
+    background-color: rgb(109, 117, 109);
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
